@@ -18,7 +18,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a junior software tester in  years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive]()
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1T7paFhn5RQ-1s3bc0j1zu6AyBsEu5uLl/view?usp=sharing)
 
 ## My Projects
 ### Test cases for a online electronics and telecommunications retail website
