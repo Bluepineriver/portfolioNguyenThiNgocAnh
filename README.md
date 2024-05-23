@@ -57,7 +57,7 @@ A portfolio of the website. Check [the PDF file](https://tinyurl.com/bddrwjfd)
 - Recognized for excellence by receiving top honors and positive feedback from instructors for the project, achieving the highest ranking in the class.
 An example of the project. Check [the PDF file](https://tinyurl.com/28bm8uff)
 ### Analyzing editorial process of Hanoi publisher and developing new editorial process
-- Implemented Guidlines on BABOK V3.
+- Implemented Guidelines on BABOK V3.
 - Described the current process by script and several models, including rich pictures and BPMN.
 - Interviewed the stakeholders and analyzed them visually by Power/Interest Grid and RASCI Matrix.
 - Analyzed and documented system’s requirements consisting of 4 types: general requirements, technical requirements, functional requirements and non-functional requirements.
