@@ -8,6 +8,7 @@
    - [Building Database for managing the sales of HONDA Dealership by using MySQL](#building-database-for-managing-the-sales-of-honda-dealership-by-using-mysql)
    - [Building a long-term management plan for a Global tourism website on Microsoft Project](#building-a-long-term-management-plan-for-a-global-tourism-website-on-microsoft-project)
    - [Building Shabim - a high-end handbag website](#building-shanim-a-high-end-handbag-website)
+   - [Building a teaware e-commerce website](#building-a-teaware-e-commerce-website)
    - [Analyzing and developing a global-scale tour booking management system](#analyzing-and-developing-a-global-scale-tour-booking-management-system)
    - [Analyzing editorial process of Hanoi publisher and developing new editorial process](#analyzing-editorial-process-of-hanoi-publisher-and-developing-new-editorial-process)
 ## About me
@@ -48,6 +49,11 @@ An example of the project. Check [the PDF file](https://tinyurl.com/mr3u2ysc)
 - Leaded to reach 300 visitors.
 - Achieved the highest ranking in the class (10/10).
 A portfolio of the website. Check [the PDF file](https://tinyurl.com/bddrwjfd)
+### Building a teaware e-commerce website
+- Install and configure WooCommerce for product listings, cart, and checkout.
+- Install performance plugins (e.g., caching, image optimization).
+- Use code snippets to add custom functionalities (e.g., product filters, reviews). 
+- Achieve positive feedback from the instructor and get a high score in the class (9.5/10). Check [the PDF file](https://drive.google.com/file/d/1EK9L8e5sGkzQ1ZLCpjdNNSBJZdusxGYN/view?usp=sharing)
 ### Analyzing and developing a global-scale tour booking management system
 - Performed comprehensive analysis of existing systems, evaluating their strengths and weaknesses.
 - Writing Use Case Specification in a professional template.
